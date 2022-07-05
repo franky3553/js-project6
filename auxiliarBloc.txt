@@ -1,3 +1,4 @@
 add hero
 add modal
 add js selections
+add btn open and close modal events
